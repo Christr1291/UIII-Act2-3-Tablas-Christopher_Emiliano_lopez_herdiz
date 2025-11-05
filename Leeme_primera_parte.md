@@ -267,6 +267,7 @@ _year }} - Todos los derechos reservados. <br>Creado por Ing. Eliseo Nava, Cbtis
 
 ---
 
+
 ### 8. Configuración en `settings.py` (en `backend_Computadoras`)
 
 Agrega `app_Computadoras` a la lista de `INSTALLED_APPS`:
@@ -296,4 +297,3 @@ urlpatterns = [
 
 ---
 
-¡Listo! Ahora puedes copiar y pegar este código en los archivos correspondientes dentro de tu proyecto.
